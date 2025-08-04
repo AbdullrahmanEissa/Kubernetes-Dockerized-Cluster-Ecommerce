@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "6802ca1f1579482a0b58c5ea"
+  },
+  "name": "esraa waleed",
+  "email": "esraawaleed56@gmail.com",
+  "password": "$2a$10$vxKJKx3maeJzDq512zSsCueHPn9JWKSqq0vdOhNSObOJJw5y4DRR6",
+  "role": "customer",
+  "cartItems": [
+    {
+      "quantity": 2,
+      "_id": {
+        "$oid": "68057f64ac921b4fac06b347"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "680669e8ac921b4fac06b36c"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "6806adb4ac921b4fac06b381"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "68065845ac921b4fac06b353"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-04-18T21:54:39.487Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T19:17:46.967Z"
+  },
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "6806c3fc9b08ad5099966432"
+  },
+  "name": "hagarwaleed",
+  "email": "hagerwaleed33@gmail.com",
+  "password": "$2a$10$lTo/d78q3Ld8vEcBs6Gkh.OGUQXFTqOYCtWNsWduDi5ppSp6lOe7W",
+  "role": "customer",
+  "cartItems": [
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "680669e8ac921b4fac06b36c"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "68066e86ac921b4fac06b36f"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "6806bb9aac921b4fac06b38c"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-04-21T22:17:32.419Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-21T22:17:59.487Z"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "6807f7f3750149645a808810"
+  },
+  "name": "mohamed ahmed",
+  "email": "mohamedahmed23@gmail.com",
+  "password": "$2a$10$bIrKmcv1gKUXlFDoBvXJDudkjZFImD5bBf3YdMJ8C54WrWvUMqCEa",
+  "role": "customer",
+  "cartItems": [
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "680815296c99e5d774c97fb4"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-04-22T20:11:31.935Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T22:16:09.329Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6808dd7401d58547f65572e7"
+  },
+  "name": "ezat nasef",
+  "email": "ezatyahya@gmail.com",
+  "password": "$2a$10$sTwCQSjXgKLT9S/HgaZ.u.qiI5aYKx3Eo/NGC8/YMu9pUbyfu3WRi",
+  "role": "customer",
+  "cartItems": [],
+  "createdAt": {
+    "$date": "2025-04-23T12:30:44.117Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-23T12:56:30.002Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "680a504dc5fe8f7a24c90035"
+  },
+  "name": "Ezat nasef",
+  "email": "ezatyahta@gmail.com",
+  "password": "$2a$10$9mY7LKF8xm0DlO66/FTRDusopQQlRZWZAb.NidcFecIqA00B8KsrW",
+  "role": "customer",
+  "cartItems": [
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "680666a5ac921b4fac06b363"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "6806688aac921b4fac06b36b"
+      }
+    },
+    {
+      "quantity": 1,
+      "_id": {
+        "$oid": "680669e8ac921b4fac06b36c"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-04-24T14:53:01.549Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-24T14:53:10.128Z"
+  },
+  "__v": 3
+}]

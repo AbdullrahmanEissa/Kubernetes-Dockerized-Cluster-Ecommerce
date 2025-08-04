@@ -1,0 +1,21 @@
+# Step 1: Use Node.js official image as the base image
+FROM node:20
+
+# Step 2: Set the working directory for the frontend
+WORKDIR /usr/src/app
+
+# Step 3: Copy all files to the working directory
+COPY . .
+
+# Step 4: Go to the frontend directory and install dependencies
+WORKDIR /usr/src/app/frontend
+RUN npm install
+
+# Step 5: Build the frontend app
+RUN npm run build
+
+# Step 6: Expose the port that the frontend will run on
+EXPOSE 5173
+
+# Step 7: Command to start the frontend app (usually serve the build folder)
+CMD ["npm", "run", "dev"]

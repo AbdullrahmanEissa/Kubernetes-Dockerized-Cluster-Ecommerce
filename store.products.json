@@ -1,0 +1,511 @@
+[{
+  "_id": {
+    "$oid": "68057c69ac921b4fac06b346"
+  },
+  "name": "Balenciaga Triple S",
+  "description": "Trendy Puma sneakers",
+  "price": 680,
+  "image": "https://i.pinimg.com/474x/ed/0d/dc/ed0ddc2973be7db793552d94f6ea972e.jpg",
+  "category": "shoes",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "68057f64ac921b4fac06b347"
+  },
+  "name": "Nike Air Max",
+  "description": "Classic Nike design with air cushioning",
+  "price": 850,
+  "image": "https://i.pinimg.com/736x/a6/40/8f/a6408fa0c3c2443efdf6cf36c64c3ba5.jpg",
+  "category": "shoes",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "680656b0ac921b4fac06b352"
+  },
+  "name": "Adidas Ultraboost",
+  "description": "Super soft and flexible running shoes",
+  "price": 550,
+  "image": "https://i.pinimg.com/474x/87/bd/41/87bd41e4e669fc226eb24b37a592dd34.jpg",
+  "category": "shoes",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "68065845ac921b4fac06b353"
+  },
+  "name": " Martens Boots",
+  "description": "Iconic leather boots for casual wear",
+  "price": 1100,
+  "image": "https://i.pinimg.com/474x/8e/40/0a/8e400aeae4925fb386d502d82e6e2c8d.jpg",
+  "category": "shoes",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "68065a46ac921b4fac06b354"
+  },
+  "name": "New Balance 9060",
+  "description": "Chunky tech-runner with premium suede",
+  "price": 980,
+  "image": "https://i.pinimg.com/474x/14/ef/e5/14efe51db309031daf641f78c4035881.jpg",
+  "category": "shoes",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "68065b92ac921b4fac06b355"
+  },
+  "name": "Adidas Forum Bold",
+  "description": "Elevated sole with old-school flair",
+  "price": 650,
+  "image": "https://i.pinimg.com/736x/da/3a/d9/da3ad93129003222c5e01d969527df86.jpg",
+  "category": "shoes",
+  "brand": "Adidas",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "680663eeac921b4fac06b35b"
+  },
+  "name": "Cole Haan GrandPro Rally",
+  "description": "Smart casual leather sneakers, ultra lightweight and comfortable.",
+  "price": 1150,
+  "image": "https://i.pinimg.com/474x/88/8a/3c/888a3c9e54369a38ffc9f9dca1d31215.jpg",
+  "category": "shoes",
+  "brand": "Cole Haan",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "68066583ac921b4fac06b362"
+  },
+  "name": "Pull&Bear Vintage Tee",
+  "description": "Washed vintage cotton t-shirt with retro print design.",
+  "price": 380,
+  "image": "https://i.pinimg.com/474x/7a/f0/6f/7af06fa281ca8cc6b4d92dead18f55db.jpg",
+  "category": "t-shirts",
+  "brand": "Pull&Bear",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "680666a5ac921b4fac06b363"
+  },
+  "name": "Zara Graphic Art Tee",
+  "description": "T-shirt with an artistic abstract print, perfect for street style.",
+  "price": 420,
+  "image": "https://i.pinimg.com/474x/15/2f/fe/152ffe250ac9383e26fba144ce318ece.jpg",
+  "category": "t-shirts",
+  "brand": "Zara",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "6806688aac921b4fac06b36b"
+  },
+  "name": "Adidas Originals Trefoil Hoodie",
+  "description": "Signature Adidas hoodie with large Trefoil logo and drawstring hood.",
+  "price": 870,
+  "image": "https://i.pinimg.com/474x/00/e3/80/00e380664a49408c961341c9e95e3920.jpg",
+  "category": "t-shirts",
+  "brand": "Adidas",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "680669e8ac921b4fac06b36c"
+  },
+  "name": "Stradivarius Hoodie with Embroidery",
+  "description": "Soft cotton hoodie with embroidered chest detail and ribbed cuffs.",
+  "price": 600,
+  "image": "https://i.pinimg.com/474x/fe/ee/3e/feee3e07ccc5e32133441dcf8bc1525a.jpg",
+  "category": "t-shirts",
+  "brand": "Stradivarius",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "68066a8eac921b4fac06b36d"
+  },
+  "name": "Bershka Street Graphic Tee",
+  "description": "Graphic t-shirt with street-style artwork and oversized fit.",
+  "price": 310,
+  "image": "https://i.pinimg.com/474x/0d/3e/cc/0d3eccd1bc39518c7d1e040a017ed024.jpg",
+  "category": "t-shirts",
+  "brand": "Bershka",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "68066b85ac921b4fac06b36e"
+  },
+  "name": "Urban Outfitters Tie-Dye Tee",
+  "description": "Trendy tie-dye t-shirt with pastel color mix for a relaxed vibe.",
+  "price": 370,
+  "image": "https://i.pinimg.com/474x/5b/f1/e9/5bf1e9ed73a9790807d16bfa3e13210e.jpg",
+  "category": "t-shirts",
+  "brand": "Urban Outfitters",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "68066e86ac921b4fac06b36f"
+  },
+  "name": "Ray-Ban Aviator Classic",
+  "description": "Timeless aviator sunglasses with gold frame and green lenses.",
+  "price": 1450,
+  "image": "https://i.pinimg.com/474x/18/3b/65/183b65aa3d0f56d3ae080725a1387322.jpg",
+  "category": "glasses",
+  "brand": "Ray-Ban",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "68066f12ac921b4fac06b370"
+  },
+  "name": "Gucci Cat Eye Sunglasses",
+  "description": "Elegant cat eye design with black frame and tinted lenses.",
+  "price": 1250,
+  "image": "https://i.pinimg.com/736x/71/2a/72/712a728b7baecf102cb6eb10438c51ed.jpg",
+  "category": "glasses",
+  "brand": "Gucci",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "68066fbfac921b4fac06b372"
+  },
+  "name": "Prada Rectangular Frame",
+  "description": "Stylish rectangular sunglasses with matte black finish.",
+  "price": 1100,
+  "image": "https://i.pinimg.com/736x/81/1e/8a/811e8a9cbb4254186fbae2c29923a5bc.jpg",
+  "category": "glasses",
+  "brand": "Prada",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "6806708eac921b4fac06b373"
+  },
+  "name": "Zara Gold Round Glasses",
+  "description": "Retro-inspired metal frame glasses with rounded lenses.",
+  "price": 420,
+  "image": "https://i.pinimg.com/474x/68/e9/f9/68e9f93277b5cf6d98a4aea942e80fbe.jpg",
+  "category": "glasses",
+  "brand": "Zara",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "68067130ac921b4fac06b374"
+  },
+  "name": "Versace Oversized Sunglasses",
+  "description": "Bold oversized sunglasses with golden temple details.",
+  "price": 1350,
+  "image": "https://i.pinimg.com/474x/bf/d6/9c/bfd69cd60bd3d662979f15e4d584adb9.jpg",
+  "category": "glasses",
+  "brand": "Versace",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "68067194ac921b4fac06b375"
+  },
+  "name": "Ray-Ban Round Metal",
+  "description": "Vintage-style round sunglasses with thin metal frame.",
+  "price": 880,
+  "image": "https://i.pinimg.com/474x/37/a3/f1/37a3f1e70a5d98e6c7fe312a3911104a.jpg",
+  "category": "glasses",
+  "brand": "Ray-Ban",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "68067359ac921b4fac06b376"
+  },
+  "name": "H&M Puffer Jacket",
+  "description": "Warm padded puffer jacket perfect for winter seasons.",
+  "price": 900,
+  "image": "https://i.pinimg.com/474x/10/46/af/1046af083f17536141bbc512c8f7236d.jpg",
+  "category": "jackets",
+  "brand": "H&M",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "680673b6ac921b4fac06b377"
+  },
+  "name": "Bershka Bomber Jacket",
+  "description": "Trendy bomber jacket with ribbed hem and cuffs.",
+  "price": 670,
+  "image": "https://i.pinimg.com/474x/32/70/f4/3270f451881cd8c7c3594d26c3222c1e.jpg",
+  "category": "jackets",
+  "brand": "Bershka",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "6806749cac921b4fac06b378"
+  },
+  "name": "Guess Leather Moto Jacket",
+  "description": "Edgy motorcycle leather jacket with asymmetrical zip and classic look.",
+  "price": 1500,
+  "image": "https://i.pinimg.com/474x/31/6c/0b/316c0b2375cad00ac2c08df144cfcc8b.jpg",
+  "category": "jackets",
+  "brand": "Guess",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "6806aae1ac921b4fac06b37f"
+  },
+  "name": "Uniqlo jackets",
+  "description": "Everyday parka with zip and snap buttons, perfect for spring/fall.",
+  "price": 900,
+  "image": "https://i.pinimg.com/474x/80/ef/14/80ef14d5dcb884c8c19e76c55e6f1020.jpg",
+  "category": "jackets",
+  "brand": "Uniqlo",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "6806acaaac921b4fac06b380"
+  },
+  "name": "Levi's Casual Field Jacket",
+  "description": "Classic field jacket with four front pockets and adjustable sleeves.",
+  "price": 1100,
+  "image": "https://i.pinimg.com/474x/51/3b/37/513b370d3a67fd864162098f7502d67f.jpg",
+  "category": "jackets",
+  "brand": "Levi's",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "6806adb4ac921b4fac06b381"
+  },
+  "name": "Plush Duck Down Coat",
+  "description": "Iconic windrunner with breathable mesh and casual fit.",
+  "price": 1050,
+  "image": "https://i.pinimg.com/474x/af/34/ce/af34cea04b29a439ae2964791392269f.jpg",
+  "category": "jackets",
+  "brand": "Nike",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "6806af06ac921b4fac06b382"
+  },
+  "name": "Zara Classic Fit Suit",
+  "description": "Elegant navy blue classic fit suit with notch lapels and single-breasted jacket.",
+  "price": 1200,
+  "image": "https://i.pinimg.com/474x/dc/cd/cc/dccdcc3a8729a1b362b1cf166e673161.jpg",
+  "category": "suits",
+  "brand": "Zara",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "6806b4a0ac921b4fac06b383"
+  },
+  "name": "H&M Slim Fit Suit",
+  "description": "Affordable slim-fit black suit with structured shoulders and sharp look.",
+  "price": 1950,
+  "image": "https://i.pinimg.com/474x/c7/53/5b/c7535b0d7308038206bed26dd1f775c9.jpg",
+  "category": "suits",
+  "brand": "H&M",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "6806b642ac921b4fac06b386"
+  },
+  "name": "Bershka Textured Suit",
+  "description": "Stylish textured fabric suit in light grey with modern fit.",
+  "price": 2150,
+  "image": "https://i.pinimg.com/474x/68/50/2e/68502eb9c9b06e5c0e75b2806593cb2c.jpg",
+  "category": "suits",
+  "brand": "Bershka",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "6806b772ac921b4fac06b387"
+  },
+  "name": "ASOS Linen Blend Suit",
+  "description": "Summer-ready light beige suit made from breathable linen blend.",
+  "price": 2290,
+  "image": "https://i.pinimg.com/474x/13/67/b4/1367b4b69dffa24a08aceb65a20e59e0.jpg",
+  "category": "suits",
+  "brand": "ASOS",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "6806b884ac921b4fac06b388"
+  },
+  "name": "Levi's Charcoal Office Suit",
+  "description": "Simple and neat charcoal suit ideal for daily office wear.",
+  "price": 2400,
+  "image": "https://i.pinimg.com/474x/9b/c7/c5/9bc7c56c2d74d2d5e6e7eec16ada00a2.jpg",
+  "category": "suits",
+  "brand": "Levi's",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "6806b943ac921b4fac06b389"
+  },
+  "name": "Jack & Jones Fitted Suit",
+  "description": "Clean navy suit with tailored fit and soft lining for all-day comfort.",
+  "price": 2100,
+  "image": "https://i.pinimg.com/474x/b2/2f/77/b22f770bf52db500d08c1905f992be2e.jpg",
+  "category": "suits",
+  "brand": "Jack & Jones",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "6806ba8eac921b4fac06b38a"
+  },
+  "name": "Leather Messenger Bag",
+  "description": "Classic brown leather messenger bag with adjustable strap and laptop sleeve.",
+  "price": 380,
+  "image": "https://i.pinimg.com/474x/97/2d/b5/972db5e8e8a3b0d2283dca588b7cfa43.jpg",
+  "category": "bags",
+  "brand": "Montana",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "6806bb22ac921b4fac06b38b"
+  },
+  "name": "Black Leather Briefcase",
+  "description": "Elegant black briefcase with minimalist design and metal lock.",
+  "price": 510,
+  "image": "https://i.pinimg.com/474x/15/f8/b6/15f8b6cce7a35d673d7c1c88af84a7f6.jpg",
+  "category": "bags",
+  "brand": "Pierre Cardin",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "6806bb9aac921b4fac06b38c"
+  },
+  "name": "Anti-theft Laptop Backpack",
+  "description": "Modern anti-theft backpack with USB port and water-resistant material.",
+  "price": 430,
+  "image": "https://i.pinimg.com/474x/5f/d4/16/5fd41617d280029637cd04706ae9137e.jpg",
+  "category": "bags",
+  "brand": "Xiaomi",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "6806bc89ac921b4fac06b38d"
+  },
+  "name": "Tactical Sling Bag",
+  "description": "Compact sling bag with MOLLE system and multiple zippers.",
+  "price": 290,
+  "image": "https://i.pinimg.com/736x/ce/95/4d/ce954d40b3fc48304a022d29dfb2f552.jpg",
+  "category": "bags",
+  "brand": "Tactix",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "6806bd18ac921b4fac06b38e"
+  },
+  "name": "Laptop Sleeve Bag",
+  "description": "Slim, padded laptop sleeve with extra pockets for accessories.",
+  "price": 490,
+  "image": "https://i.pinimg.com/736x/b4/8a/4d/b48a4dbb65693afe7b87dae75e6a06c0.jpg",
+  "category": "bags",
+  "brand": "Lenovo",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "6806be37ac921b4fac06b38f"
+  },
+  "name": "Sporty Duffel Bag",
+  "description": "Spacious duffel bag suitable for gym or short trips, with waterproof lining.",
+  "price": 190,
+  "image": "https://i.pinimg.com/474x/85/67/72/85677247510dc904fc21ff9518405fef.jpg",
+  "category": "bags",
+  "brand": "Adidas",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "6806c11bac921b4fac06b390"
+  },
+  "name": "Dark Blue Straight Fit",
+  "description": "Straight fit jeans with clean lines and no fade, great for a smart-casual look.",
+  "price": 800,
+  "image": "https://i.pinimg.com/474x/cd/ba/a1/cdbaa16110d7d8127e2c2820cafa2d0f.jpg",
+  "category": "jeans",
+  "brand": "Jack & Jones",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "6806c1a5ac921b4fac06b391"
+  },
+  "name": "Tapered Light Wash Jeans",
+  "description": "Tapered leg jeans with light wash finish and subtle fading.",
+  "price": 780,
+  "image": "https://i.pinimg.com/474x/d5/a4/04/d5a404ad09164e881d15264459373856.jpg",
+  "category": "jeans",
+  "brand": "Levi's",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "6806c214ac921b4fac06b392"
+  },
+  "name": "Grey Washed Jeans",
+  "description": "Grey jeans with modern tone and slim fit cutting.",
+  "price": 890,
+  "image": "https://i.pinimg.com/474x/3e/62/b9/3e62b973b4c420a905da59dd087071c3.jpg",
+  "category": "jeans",
+  "brand": "Bershka",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "6806c29bac921b4fac06b393"
+  },
+  "name": "Loose Fit Vintage Jeans",
+  "description": "Relaxed vintage jeans with wide legs and retro style.",
+  "price": 950,
+  "image": "https://i.pinimg.com/736x/d5/52/e7/d552e73c86ff10960971925bb27062d0.jpg",
+  "category": "jeans",
+  "brand": "Diesel",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "6806c2dbac921b4fac06b394"
+  },
+  "name": "Cargo Style Denim",
+  "description": "Hybrid cargo jeans with utility pockets and strong stitching.",
+  "price": 970,
+  "image": "https://i.pinimg.com/474x/c2/3f/ee/c23feed92f67f34adcf6701ad7a8054a.jpg",
+  "category": "jeans",
+  "brand": "Zegna",
+  "isFeatured": true
+},
+{
+  "_id": {
+    "$oid": "6806c3adac921b4fac06b395"
+  },
+  "name": "White Slim Jeans",
+  "description": "Clean white slim jeans — a bold fashion statement.",
+  "price": 910,
+  "image": "https://i.pinimg.com/736x/50/1f/77/501f77804529e02e3243ffa5011e4467.jpg",
+  "category": "jeans",
+  "brand": "ASOS",
+  "isFeatured": false
+}]
